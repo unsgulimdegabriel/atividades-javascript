@@ -3,7 +3,7 @@
 //1° recebo o peso e a altura da pessoa
 //2° processo e faço a multiplicação e divisao
 //3° mostro o valor do imc 
-
+//achei uma questão razoavelmente facil
 
 function calcularIMC() {
 
