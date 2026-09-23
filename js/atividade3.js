@@ -4,6 +4,8 @@
 //2° faço a conversão do valor que eu recebi em celsius para fahrenheit 
 //3° mostro o resultado da conversão
 
+//achei mediana nem muito facil nem muito dificil
+
 
 function receberatemperatura(){
     let tempC = Number(prompt("Informe a temperatura em °C"))
